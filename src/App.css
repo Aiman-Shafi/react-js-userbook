@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.all-user {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+.user-card {
+  padding: 20px;
+  background-color: rgb(195, 227, 255);
+}

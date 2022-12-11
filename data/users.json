@@ -1,0 +1,127 @@
+// npx json-server --watch data/users.json --port 8000
+{
+    "users": [
+        {
+            "id": 2,
+            "email": "hmaccafferky1@taobao.com",
+            "gender": "Male",
+            "name": "Harrison MacCafferky",
+            "company": "Schultz-Bernhard",
+            "jobtitle": "Environmental Tech"
+        },
+        {
+            "id": 4,
+            "email": "margente3@360.cn",
+            "gender": "Male",
+            "name": "Mata Argente",
+            "company": "Kub-Kassulke",
+            "jobtitle": "Assistant Professor"
+        },
+        {
+            "id": 5,
+            "email": "aalywin4@parallels.com",
+            "gender": "Male",
+            "name": "Alexandro Alywin",
+            "company": "Abbott-Denesik",
+            "jobtitle": "Senior Quality Engineer"
+        },
+        {
+            "id": 6,
+            "email": "ggewer5@amazon.de",
+            "gender": "Non-binary",
+            "name": "Gabriellia Gewer",
+            "company": "Paucek-Bauch",
+            "jobtitle": "Account Representative III"
+        },
+        {
+            "id": 7,
+            "email": "jstiddard6@craigslist.org",
+            "gender": "Male",
+            "name": "Jacques Stiddard",
+            "company": "Dibbert and Sons",
+            "jobtitle": "Nurse"
+        },
+        {
+            "id": 8,
+            "email": "mkisar7@ycombinator.com",
+            "gender": "Female",
+            "name": "Murielle Kisar",
+            "company": "Larkin and Sons",
+            "jobtitle": "Geological Engineer"
+        },
+        {
+            "id": 9,
+            "email": "rramiro8@abc.net.au",
+            "gender": "Female",
+            "name": "Rae Ramiro",
+            "company": "Wyman LLC",
+            "jobtitle": "Sales Representative"
+        },
+        {
+            "id": 10,
+            "email": "cweiss9@shinystat.com",
+            "gender": "Male",
+            "name": "Cyrill Weiss",
+            "company": "Stanton-McClure",
+            "jobtitle": "Administrative Assistant IV"
+        },
+        {
+            "id": 11,
+            "email": "kshutera@wiley.com",
+            "gender": "Male",
+            "name": "Kalvin Shuter",
+            "company": "Fisher LLC",
+            "jobtitle": "Speech Pathologist"
+        },
+        {
+            "id": 12,
+            "email": "sjakawayb@latimes.com",
+            "gender": "Genderfluid",
+            "name": "Sutherlan Jakaway",
+            "company": "Funk-Ratke",
+            "jobtitle": "Account Representative IV"
+        },
+        {
+            "name": "SA Shafi",
+            "company": "It's Commercial Business 2",
+            "email": "shafi234@gmail.com",
+            "jobtitle": "DASDASD",
+            "id": 13
+        },
+        {
+            "name": "asdasda Shafi",
+            "company": "It's Commercial Business 2",
+            "email": "shafi234@gmail.com",
+            "jobtitle": "fsdfasdf",
+            "id": 14
+        },
+        {
+            "name": "asdasda Shafi",
+            "company": "It's Commercial Business 2",
+            "email": "shafi234@gmail.com",
+            "jobtitle": "fsdfasdf",
+            "id": 15
+        },
+        {
+            "name": "Minhazul Islam",
+            "company": "It's Commercial Business 2",
+            "email": "shafiaiman88@gmail.com",
+            "jobtitle": "asdasdad",
+            "id": 17
+        },
+        {
+            "name": "test4 Shafi",
+            "company": "It's Commercial Business 2",
+            "email": "shafi234@gmail.com",
+            "jobtitle": "asdasda",
+            "id": 19
+        },
+        {
+            "name": "SA Shafi",
+            "company": "It's Commercial Business 2",
+            "email": "shafi234@gmail.com",
+            "jobtitle": "asda",
+            "id": 20
+        }
+    ]
+}
