@@ -9,7 +9,7 @@ const Home = () => {
   //       .then((data) => setUsers(data));
   //   });
 
-  const { users, loading, error } = useFetch("http://localhost:8000/users");
+  const { users, loading, error } = useFetch("react-js-userbook.vercel.app/users");
 
   return (
     <div>
