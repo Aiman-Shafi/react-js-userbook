@@ -6,13 +6,13 @@ import { useNavigate } from "react-router-dom";
 const UserDetails = () => {
   const { id } = useParams();
   const { users, loading, error } = useFetch(
-    "http://localhost:8000/users/" + id
+    "https://react-js-userbook.vercel.app/users/" + id
   );
 
   const navigate = useNavigate();
 
   const deleteUser = () => {
-    fetch("react-js-userbook.vercel.app/users/" + users.id, {
+    fetch("https://react-js-userbook.vercel.app/users/" + users.id, {
       method: "DELETE",
     }).then(() => {
       navigate("/");
