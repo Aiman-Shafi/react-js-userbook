@@ -12,7 +12,7 @@ const UserDetails = () => {
   const navigate = useNavigate();
 
   const deleteUser = () => {
-    fetch("http://localhost:8000/users/" + users.id, {
+    fetch("react-js-userbook.vercel.app/users/" + users.id, {
       method: "DELETE",
     }).then(() => {
       navigate("/");
